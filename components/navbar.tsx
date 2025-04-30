@@ -24,7 +24,7 @@ export default function Navbar() {
             </div>
             {/* GitHub Button (Right) */}
             <a
-                href="https://github.com/hariFED"
+                href="https://github.com/hariFED/bubblemaps-traders"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
