@@ -1,5 +1,7 @@
 # Token Trader Network Visualization
 
+![bubblemaps traders](https://github.com/user-attachments/assets/6bcfd264-a922-40c6-bdf4-b44b05f84818)
+
 A **Next.js** application that visualizes the top traders of a given token using Bubblemaps data. Explore trading relationships between addresses with an interactive force-directed graph—helping traders and analysts gain insights into token activity.
 
 ---
